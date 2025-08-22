@@ -1,6 +1,6 @@
-# Hi there, I'm Luie 👋  
+# Hi there, I'm John LuieRivera 👋  
 
-🚀 **IT Graduate | Full-Stack Developer | Tech Enthusiast**  
+🚀 **IT Student | Aspiring Full-Stack Developer**  
 
 Welcome to my GitHub profile! I’m passionate about building **web-based solutions**, exploring **software development**, and continuously learning new technologies to improve my craft.  
 
