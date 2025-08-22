@@ -8,11 +8,13 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 IT Graduate  
-- 💻 Interested in **Web Development, Database Management, and Community-Based Systems**  
-- 🎯 Currently working on my **Capstone Project**: *MuntiCare – Smart Healthcare Management System*  
-- 📚 Always learning **Laravel, PHP, JavaScript, and Cloud Technologies**  
-- 🤝 Open to collaborations on **web-based community projects**  
+- 🎓 IT Student  
+- 🎨 Passionate about **Frontend Development** – I love creating clean, responsive, and user-friendly interfaces  
+- 💻 Skilled in **Full-Stack Development** with experience in **Laravel, PHP, JavaScript, and MySQL**  
+- 🎯 Currently working on my **Capstone Project**: *MuntiCare – A Smart Healthcare Management System*  
+- 📚 Continuously learning and improving my skills in **modern web technologies**  
+- 🤝 Open to collaborations on **frontend projects** and **community-driven web solutions**  
+ 
 
 ---
 
@@ -44,7 +46,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> 
   </a> 
   <a href="https://laravel.com" target="_blank"> 
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg](https://camo.githubusercontent.com/8aafbd359304c15ef88319e99b918cc957e946f33aa29a11ddf446466777f898/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f6c61726176656c2e706e67)" alt="laravel" width="50" height="50"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt4hgAj2QByaNVhFdb3OYDtsidv54ynE0QOw&s" alt="laravel" width="50" height="50"/> 
   </a> 
   <a href="https://sass-lang.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> 
