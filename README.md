@@ -41,8 +41,8 @@ I’m passionate about building web-based systems and applications that solve re
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Luie's GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FREECSS22&show_icons=true&theme=tokyonight" alt="Luie's GitHub stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FREECSS22&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
